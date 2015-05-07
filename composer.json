@@ -1,5 +1,6 @@
 {
     "require": {
-        "react/http": "0.3.*"
+        "react/http": "0.3.*",
+	"react/async": "~1.0"
     }
 }

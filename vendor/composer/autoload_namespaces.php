@@ -10,6 +10,7 @@ return array(
     'React\\Socket' => array($vendorDir . '/react/socket'),
     'React\\Http' => array($vendorDir . '/react/http'),
     'React\\EventLoop' => array($vendorDir . '/react/event-loop'),
+    'React\\Async' => array($vendorDir . '/react/async/src'),
     'Guzzle\\Parser' => array($vendorDir . '/guzzle/parser'),
     'Evenement' => array($vendorDir . '/evenement/evenement/src'),
 );
